@@ -80,7 +80,7 @@ p. Note, in geojson the correct order is longitude, latitude coordinate arrays. 
 
 h3. Envelope
 
-ElasticSearch supports an @envelope@ type which consists of coordinates for upper left and lower right points of the shape:
+Elasticsearch supports an @envelope@ type which consists of coordinates for upper left and lower right points of the shape:
 
 <pre class="prettyprint lang-js">
 {
